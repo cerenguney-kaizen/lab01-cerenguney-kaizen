@@ -12,4 +12,4 @@ Answer those in Canvas - this file only needs the three lines above.
 
 Do not add your student number, address, or phone number here. This repository is public.
 
-   - **My goal for this course:** Learn to write Python programs on my own without copying code.
+- **My goal for this course:** Learn to write Python programs on my own without copying code.
